@@ -1,0 +1,4 @@
+converter online - https://www.dcode.fr/hill-cipher
+reference hillCipher - https://www.geeksforgeeks.org/hill-cipher/
+reference numpyMatrix - https://www.programiz.com/python-programming/matrix
+my python website :) - http://bejjoeqq.epizy.com/pyshare/
