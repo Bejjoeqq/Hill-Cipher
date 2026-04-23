@@ -102,7 +102,7 @@ If message length is not divisible by matrix size, the app appends `Z` until val
 
 - Hill Cipher converter: https://www.dcode.fr/hill-cipher
 - Hill Cipher explanation: https://www.geeksforgeeks.org/hill-cipher/
-- NumPy matrix basics: https://www.programiz.com/python-programming/matrix
+- NumPy array/matrix reference (official docs): https://numpy.org/doc/stable/reference/arrays.ndarray.html
 
 ## Author
 
