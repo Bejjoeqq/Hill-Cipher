@@ -12,7 +12,7 @@ This project provides a small terminal application to:
 
 The main entry point is:
 
-- `/home/runner/work/Hill-Cipher/Hill-Cipher/HillCipherFullApp.py`
+- `HillCipherFullApp.py`
 
 ## Features
 
@@ -25,15 +25,15 @@ The main entry point is:
 
 ## Project Structure
 
-- `/home/runner/work/Hill-Cipher/Hill-Cipher/HillCipherFullApp.py`  
+- `HillCipherFullApp.py`  
   Main menu application.
-- `/home/runner/work/Hill-Cipher/Hill-Cipher/HillCipherEncrypt.py`  
+- `HillCipherEncrypt.py`  
   Encryption logic (`Encrypt()` function).
-- `/home/runner/work/Hill-Cipher/Hill-Cipher/HillCipherDecrypt.py`  
+- `HillCipherDecrypt.py`  
   Decryption logic (`Decrypt()` function).
-- `/home/runner/work/Hill-Cipher/Hill-Cipher/RunFullApp(ReadThisReference).txt`  
+- `RunFullApp(ReadThisReference).txt`  
   External references used by the project.
-- `/home/runner/work/Hill-Cipher/Hill-Cipher/Learn More/`  
+- `Learn More/`  
   Image resources for learning/reference.
 
 ## Requirements
